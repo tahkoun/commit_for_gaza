@@ -6,8 +6,10 @@ project to bring awareness about innocent kids , among the developer community ,
 - add more information about him when he was born and when he was killed.
 - place the merge request
 - commit style
+  
      [<kid namne>] : comment/dua for kid.
-     eg.
+
+  eg.
      [rim al-kilani] :  may God give her best place in Jannah.
 
   
